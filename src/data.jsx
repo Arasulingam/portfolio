@@ -33,7 +33,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: "src/assets/image.png",
+    img: "/image.png",
     url: "https://react-alpha-gilt.vercel.app/",
     github: "https://github.com/Arasulingam/React-",
     title: "User Profile Card using React",
