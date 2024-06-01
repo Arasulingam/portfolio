@@ -6,12 +6,15 @@ const About = () => {
       <div className="align-element grid md:grid-cols-2 items-center gap-16">
         <img src={aboutSvg} className="w-full h-64" />
         <article>
-          <SectionTitle text="code and coffee" />
+          <SectionTitle text="code Hard" />
           <p className="text-slate-600 mt-8 leading-loose">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint
-            maiores itaque doloribus asperiores dolorum quas voluptates
-            distinctio, porro beatae quam provident libero animi totam,
-            praesentium voluptatem corrupti dignissimos ipsum accusantium!
+            "Code hard" embodies the relentless pursuit of excellence in
+            programming. It's about diving deep into complex problems, writing
+            efficient and elegant code, and continuously learning and adapting.
+            This mindset fuels late-night coding sessions, persistent debugging,
+            and the satisfaction of solving intricate challenges. It's the
+            dedication to mastering the craft, pushing boundaries, and creating
+            innovative solutions.
           </p>
         </article>
       </div>
