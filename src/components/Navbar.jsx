@@ -2,7 +2,7 @@ import { links } from "../data";
 
 const Navbar = () => {
   return (
-    <nav className="bg-emerald-100 w-full">
+    <nav className="fixed bg-emerald-100 w-full">
       <div className="align-element py-2 flex flex-col sm:flex-row sm:gap-x-16 sm:items-center sm:py-2">
         <h2 className="text-3xl font-bold">
           Port<span className="text-emerald-600">Folio</span>
