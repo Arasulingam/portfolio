@@ -6,15 +6,13 @@ const About = () => {
       <div className="align-element grid md:grid-cols-2 items-center gap-16">
         <img src={aboutSvg} className="w-full h-64" />
         <article>
-          <SectionTitle text="code Hard" />
+          <SectionTitle text="About Me" />
           <p className="text-slate-600 mt-8 leading-loose">
-            "Code hard" embodies the relentless pursuit of excellence in
-            programming. It's about diving deep into complex problems, writing
-            efficient and elegant code, and continuously learning and adapting.
-            This mindset fuels late-night coding sessions, persistent debugging,
-            and the satisfaction of solving intricate challenges. It's the
-            dedication to mastering the craft, pushing boundaries, and creating
-            innovative solutions.
+          Dedicated B.Tech (Artificial Intelligence and Machine Learning) student with strong proficiency in
+Python, C++, JavaScript, Linux, Azure Cloud, and full-stack development. Interested in developing and
+testing applications through academic projects and self-learning. Actively seeking an entry-level Software
+Engineering position to apply my coding skills and passion for technology in a fast-paced environment while
+continuing to enhance my technical expertise.
           </p>
         </article>
       </div>
