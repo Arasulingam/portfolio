@@ -41,11 +41,11 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1Ye8pKTkpnz3k9PqyAwTmMaLpoOVvdR8uQ&usqp=CAU",
-    url: "#",
-    github: "https://github.com/Arasulingam/firebase-blog-posts",
-    title: "Next js Blog",
-    text: "The Next.js Blog Website project is designed to create a modern, dynamic, and responsive blog platform using Next.js, a popular React framework. This project leverages the power of server-side rendering and static site generation to deliver a fast and SEO-friendly blogging experience.",
+    img: "https://i.pinimg.com/736x/c1/90/7f/c1907ffa0c29e3d7cea8a519aa1a1fbc.jpg",
+    url: "https://resume.nexgoods.shop",
+    github: "https://github.com/Arasulingam/",
+    title: "Resume Ranking using NLP",
+    text: "The Resume Ranking project leverages Natural Language Processing (NLP) and Machine Learning to extract and analyze key information from resumes. Using spaCy and DistilBERT, the system identifies and structures data such as skills, experience, education, job titles, and certifications into a JSON format. The extracted information is then ranked based on predefined criteria, enabling efficient candidate shortlisting. This approach enhances recruitment processes by automating resume screening, reducing manual effort, and improving accuracy in talent selection.",
   },
   {
     id: nanoid(),
